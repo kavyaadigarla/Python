@@ -1,0 +1,7 @@
+a=int(input("enter the value of a"))
+b=int(input("enter the value of b"))
+temp=a
+a=b
+temp=b
+print(" the value of a after swapping:" ,a)
+print(" the value of b after swapping:" ,b)
